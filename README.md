@@ -1,2 +1,2 @@
 # Extension
-Browser extension for copying code from stack overflow
+Downloading sentinel imagery using python code.
